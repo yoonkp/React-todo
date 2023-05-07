@@ -10,5 +10,5 @@
 > + react-toastify : 9.1.2
 
 추후에 사용할 fontawsome 라이브러리
-> + @fortawesome/free-solid-svg-icons : 6.4.0
-> + @fortawesome/react-fontawesome : 0.2.0
++ @fortawesome/free-solid-svg-icons : 6.4.0
++ @fortawesome/react-fontawesome : 0.2.0
