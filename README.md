@@ -2,7 +2,7 @@
 
 다양한 버전의 Todolist 프로젝트를 통해 리액트를 학습합니다.
 
-> package.json 정보
+> __package.json 정보__
 > + react : 18.2.0
 > + react-router-dom : 6.10.0
 > + styled-components : 5.3.10
